@@ -1,2 +1,1 @@
-# Anjali-R-Pandey
-training and testing
+#Training and Testing
